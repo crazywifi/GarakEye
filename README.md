@@ -30,7 +30,7 @@ Garak's built-in HTML report is minimal and hard to read during a security asses
 
 ## 📸 Screenshot
 
-![GarakEye Report Screenshot](screenshot.png)
+![GarakEye Report Screenshot](https://raw.githubusercontent.com/crazywifi/GarakEye/refs/heads/main/Screenshot.png)
 
 > *Dark-themed, interactive report with expandable attempt cards, injection highlights, and a robustness score ring.*
 
