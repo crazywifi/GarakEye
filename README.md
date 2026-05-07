@@ -152,7 +152,6 @@ MIT License — free to use, modify, and distribute.
 ## 👤 Author
 
 **[crazywifi (LazyHacker)](https://github.com/crazywifi)**  
-AI Security Research | Red Teaming | LLM Vulnerability Analysis
 
 ---
 
